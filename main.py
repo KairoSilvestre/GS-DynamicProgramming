@@ -162,3 +162,5 @@ def main():
 if __name__ == "__main__":
     main()
 
+# Observação final:
+# Os dois métodos (memoização e tabulação) devem sempre gerar o mesmo valor ótimo e a mesma lista de cursos, já que ambos seguem a mesma lógica do Problema da Mochila 0/1. Diferenças só ocorreriam em casos de dados inválidos no JSON, alteração incorreta da ordem dos cursos ou erro na lógica de reconstrução. No fluxo normal, o programa finaliza exibindo o impacto máximo atingível dentro do tempo disponível e confirmando a equivalência entre as duas abordagens.
