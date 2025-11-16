@@ -1,9 +1,9 @@
 # Requalificação Profissional - Global Solution
 
 ### Integrantes:
-Guilherme Santos Nunes - RM558989
-Kaique Rodrigues Zaffarani - RM 556677 
-Kairo da Silva Silvestre de Carvalho - RM558288 
+* Guilherme Santos Nunes - RM558989
+* Kaique Rodrigues Zaffarani - RM 556677 
+* Kairo da Silva Silvestre de Carvalho - RM558288 
 
 ## Contextualização do problema
 O cenário profissional atual, passa por uma tranformação sem precendentes, impulsionadas pela automação, inteligência artificial e novos modelos de negócios. Estimativas apontam que 65% dos trabalhadores precisarão se requalificar para manter a empregabilidade. 
