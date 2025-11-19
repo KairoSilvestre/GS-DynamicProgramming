@@ -93,3 +93,8 @@ Em seguida, executará os dois algoritmos e retornará:
 * A verificação final da consistência
 
 O projeto termina executando as duas versões do algoritmo, apresentando ao usuário o impacto máximo e os cursos ideais, e confirmando que ambas as abordagens chegam ao mesmo resultado. Isso encerra o ciclo garantindo precisão e consistência na solução.
+
+### Video no Youtube 
+Finalizando a documentação, deixarei o link do vídeo aprensentando um pouco sobre a principal funcionalidade. 
+
+[Global Solution](https://youtu.be/7tb1_IjEmfE)
