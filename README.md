@@ -97,4 +97,4 @@ O projeto termina executando as duas versões do algoritmo, apresentando ao usu�
 ### Video no Youtube 
 Finalizando a documentação, deixarei o link do vídeo aprensentando um pouco sobre a principal funcionalidade. 
 
-[Global Solution](https://youtu.be/7tb1_IjEmfE)
+[Global Solution](https://youtu.be/Y5VExg-ChEw)

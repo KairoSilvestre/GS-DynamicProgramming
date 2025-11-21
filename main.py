@@ -19,7 +19,6 @@ def exibir_catalogo(cursos: List[Dict]):
         )
     print("======================================")
 
-
 #  Algoritmo Knapsack (Top-down Memo)
 
 def knapsack_memo(cursos: List[Dict], capacidade: int) -> Tuple[int, List[Dict]]:
